@@ -1,14 +1,17 @@
 .myheading{
-    color: blue;
+    color: black;font-size: 50px;font-style:bold
+    ;
 }
 p{
-    font-size: 50px;
-    color: aqua;
+    font-size: 10px;
+    color: BLACK;
 }
 #unique{
-font-style:italic;  
-color: blueviolet; 
+font-style:BOLD;  
+color: BLACK; 
 }
-*{ 
-    background-color: greenyellow;
+*{background: url();;
 }
+.image{
+    width: 70px;
+}}
